@@ -71,17 +71,17 @@ The data covers multiple Southeast Asian countries over several decades, providi
 
 ## Visualization Preview
 
-Add project screenshots here.
+### GDP Growth Trend
 
-Example:
-
-```markdown
 ![GDP Trend](images/gdp_trend.png)
+
+### Economic Development Clusters
 
 ![Cluster Analysis](images/clustering_result.png)
 
+### Forecast Results (2025–2030)
+
 ![Forecast Result](images/forecast_result.png)
-```
 
 ## Repository Structure
 
