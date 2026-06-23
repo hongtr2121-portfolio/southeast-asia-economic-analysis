@@ -83,7 +83,7 @@ southeast-asia-economic-analysis/
 │
 ├── notebook/
 │
-├── images/
+├── image/
 │
 ├── report/
 │
