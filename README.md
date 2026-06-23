@@ -71,18 +71,9 @@ The data covers multiple Southeast Asian countries over several decades, providi
 
 ## Visualization Preview
 
-### GDP Growth Trend
+![Southeast Asia Economic Analysis](images/dashboard_preview.png)
 
-![GDP Trend](images/gdp_trend.png)
-
-### Economic Development Clusters
-
-![Cluster Analysis](images/clustering_result.png)
-
-### Forecast Results (2025–2030)
-
-![Forecast Result](images/forecast_result.png)
-
+  
 ## Repository Structure
 
 ```text
