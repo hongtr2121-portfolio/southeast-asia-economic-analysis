@@ -71,7 +71,7 @@ The data covers multiple Southeast Asian countries over several decades, providi
 
 ## Visualization Preview
 
-![Southeast Asia Economic Analysis](images/dashboard_preview.png)
+![Southeast Asia Economic Analysis](image/Dashboard.png)
 
   
 ## Repository Structure
